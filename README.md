@@ -1,4 +1,5 @@
 # 💇 Stylish Salon — Luxury Hair Salon Website
+## Concept website built as a portfolio project. Business name, team and pricing are fictional.
 
 <div align="center">
 
@@ -305,3 +306,5 @@ MIT License — free to use, modify and distribute.
 Made with ❤️ for Stylish Salon
 
 </div>
+
+
