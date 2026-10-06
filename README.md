@@ -135,8 +135,8 @@ salon-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Deep4755/salon_veloraweb.git
-cd salon_veloraweb
+git clone https://github.com/KodeByDeep/hair-salon-website.git
+cd hair-salon-website
 ```
 
 ### 2. Install dependencies
